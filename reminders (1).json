@@ -1,0 +1,47 @@
+[
+    {
+        "task": "Finish EPD assignment",
+        "time": "2025-12-13 19:45",
+        "completed": true
+    },
+    {
+        "task": "Finish EPD assignment",
+        "time": "2025-12-13 19:45",
+        "completed": true
+    },
+    {
+        "task": "Finish Math unit-3",
+        "time": "2025-12-14 19:45",
+        "completed": true
+    },
+    {
+        "task": "Finish mech homework",
+        "time": "2025-12-17 21:30",
+        "completed": false
+    },
+    {
+        "task": "drink water",
+        "time": "2025-12-13 19:15",
+        "completed": true
+    },
+    {
+        "task": "Prepare for exam",
+        "time": "2025-12-17 10:15",
+        "completed": false
+    },
+    {
+        "task": "Prepare for exam",
+        "time": "2025-12-17 10:15",
+        "completed": false
+    },
+    {
+        "task": "Prepare for exam",
+        "time": "2025-12-17 10:15",
+        "completed": false
+    },
+    {
+        "task": "Prepare for exam",
+        "time": "2025-12-17 10:15",
+        "completed": false
+    }
+]
